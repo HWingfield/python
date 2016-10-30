@@ -26,4 +26,4 @@ TweetingAPI = twitter.Api(CredsList[0],CredsList[1],CredsList[2],CredsList[3])
 Time = datetime.datetime.utcnow()
 
 print(HtmlTitle)
-Tweet = TweetingAPI.PostUpdate("Went to " + str(HtmlTitle))
+Tweet = TweetingAPI.PostUpdate("Went to Website: " + str(HtmlTitle))
