@@ -1,0 +1,13 @@
+Shutil library
+
+History = "History"
+copy chrome directory 
+
+SQL Lite 3 example - use "History"
+
+row [2]
+
+row into a var 
+var split into array
+last array
+query example
